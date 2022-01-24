@@ -1,6 +1,5 @@
 ## Hello I'm Jan :wave: Welcome to my Github page :wink:
-
-Come in and take a look at:
+Some of my projects:
 
 - [Umbrella (Weather App)](https://github.com/janml/Umbrella)
 
