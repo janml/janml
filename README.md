@@ -2,7 +2,7 @@
 
 Come in and take a look at:
 
--[Umbrella (Weather App)](https://github.com/janml/Umbrella)
+- [Umbrella (Weather App)](https://github.com/janml/Umbrella)
 
 
 
